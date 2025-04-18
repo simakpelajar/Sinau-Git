@@ -1,4 +1,6 @@
 Rencana development
 -js
+  *ES6 
+  * Framework Javascript
 -php
 -interciew
